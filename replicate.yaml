@@ -1,0 +1,4 @@
+# replicate.yaml
+predict: predict.py:Predictor
+weights:
+  zwx_model: zwx_model.ckpt
